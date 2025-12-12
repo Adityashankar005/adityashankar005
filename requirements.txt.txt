@@ -1,8 +1,0 @@
-streamlit==1.30.0
-pdfplumber==0.7.6
-nltk==3.9.0
-wordcloud==1.8.2.2
-pandas==2.1.0
-matplotlib==3.8.0
-scikit-learn==1.2.2
-textblob==0.17.1
